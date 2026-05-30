@@ -14,7 +14,7 @@ I am a Computer Science undergraduate with a strong interest in **artificial int
 - ⚡ Fun fact: I'm highly interested in sports analytics and assistive technology!
 
 ### Connect With Me
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aryan-chaurasia-899600360/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-chaurasia-899600360/)
 <br><br>
 
 ### Languages & Tools
@@ -27,15 +27,11 @@ I am a Computer Science undergraduate with a strong interest in **artificial int
 </p>
 
 ### GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arryan21-06&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arryan21-06&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arryan21-06&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arryan21-06&layout=compact&theme=radical&hide_border=true)
 
 ### GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arryan21-06&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</p>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arryan21-06&theme=react-dark&hide_border=true)
