@@ -32,10 +32,10 @@ I am a Computer Science undergraduate with a strong interest in **artificial int
 
 ### GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Arryan21-06&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Arryan21-06&show_icons=true&theme=buefy&hide_border=true)
 
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Arryan21-06&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Arryan21-06&layout=compact&theme=buefy&hide_border=true)
 
 ### GitHub Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arryan21-06&theme=react-dark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arryan21-06&theme=github&hide_border=true)
