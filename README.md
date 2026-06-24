@@ -1,7 +1,7 @@
 ## Hi, I'm Aryan Chaurasia 👋
 ### Computer Science Undergraduate | AI Developer | Open Source Contributor
 
-BTech in Computer Science @ Delhi Technological University (DTU)
+BTech in Software Engineering @ Delhi Technological University (DTU)
 Focused on building AI Agents, system architecture, and impactful software solutions.
 
 ### About Me
