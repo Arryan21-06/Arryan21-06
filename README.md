@@ -8,12 +8,11 @@
 
 ## About Me
 
-I'm a first-year Software Engineering undergrad at DTU (batch 2025–2029), building AI-powered products across **FinTech, AgriTech, ClimateTech, and Civic/Sports Tech**. I compete in national-level hackathons, contribute to open source, and co-author ML research.
+I'm a first-year Software Engineering undergrad at DTU (batch 2025–2029), building AI-powered products across **FinTech, AgriTech, ClimateTech, and Civic/Sports Tech**. I compete in national-level hackathons,and contribute to open source
 
 - 🏆 Winner — **HackTU 7.0** (1000+ participants) with **FinGuard**
 - 🌱 **GSSoC 2026 Contributor** — 10+ merged PRs across `piik.me`, `Amplitron`, and `arnio`
 - 🤖 Built 4+ AI products spanning FinTech, AgriTech & ClimateTech
-- 📄 Co-author — ML research paper on credit card fraud detection (LLNCS format, under review)
 - 📫 Open to internships, hackathon collaborations, and open-source contributions
 
 ---
@@ -34,11 +33,6 @@ Behavioral credit scoring engine for 763M credit-invisible Indians, using 7 UPI 
 `FastAPI` `Python` `React` `SentenceTransformers` `Gemini API` `Trafilatura`
 
 Co-built the first deterministic GEO scoring engine measuring AI citation visibility for creators and brands, addressing the gap where high-reach content gets zero citations from LLMs like ChatGPT, Gemini, and Perplexity. Hallucination-proof two-layer pipeline: Layer 1 runs 7 zero-LLM heuristics (Direct Answers, Entity Clarity, FAQ, Authority, Freshness); Layer 2 applies SentenceTransformers cosine similarity. Gemini is isolated to a rewrite-only layer to preserve determinism. Includes React dashboards for Authority Graph and Brand Campaign Match with Share of Voice tracking.
-
-### 📝 Research Paper — Credit Card Fraud Detection · Under Review, 2025
-`XGBoost` `EBM` `CTGAN` `SHAP` `Python` `scikit-learn` `imbalanced-learn`
-
-Co-authoring an ML research paper (LLNCS format) under Prof. Sanjay Patidar, DTU, comparing CTGAN oversampling against classical resamplers with XGBoost and EBM classifiers. Replaced SMOTE with CTGAN to generate realistic synthetic minority-class fraud transactions, applied a temporal 70/30 split to eliminate look-ahead bias, and used SHAP cross-validation for per-feature attribution targeting regulatory explainability.
 
 ---
 
